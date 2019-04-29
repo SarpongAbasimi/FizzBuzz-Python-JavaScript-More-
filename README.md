@@ -2,13 +2,12 @@
 Makers Academy Week 5.
 </h1>
 
-==========
 
 <h4 align='center'>
 Fizzbuzz In python.
 </h4>
 
-=========
+
 
 > This week at Makers is JavaScript week but we have bee encourage to test drive fizzBuzz in JavaScript and any other language. This is how I TDD fizzbuzz in Python.
 
