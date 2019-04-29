@@ -8,8 +8,7 @@ Fizzbuzz In python.
 </h4>
 
 
-
-> This week at Makers is JavaScript week but we have bee encourage to test drive fizzBuzz in JavaScript and any other language. This is how I TDD fizzbuzz in Python.
+> This week at Makers is JavaScript week and we have been encourage to test drive fizzBuzz in JavaScript and any other language. This is how I TDD fizzbuzz in Python.
 
 # To run Code
 - Fork the repo.
