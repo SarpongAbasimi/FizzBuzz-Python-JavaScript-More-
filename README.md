@@ -19,7 +19,7 @@ Fizzbuzz In python.
 - In terminal type ``pytest`` to run test.
 
 <h4 align='center'>
-Refactoring Process
+Refactoring Process.
 </h4>
 
 - First implementation.
